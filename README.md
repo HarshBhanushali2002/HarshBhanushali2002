@@ -26,7 +26,7 @@ This is where I build things, break them, and occasionally fix them 🛠️
       </a>
     </td>
     <td align="center">
-      <a href="mailto:REPLACE-WITH-YOUR-EMAIL" target="_blank">
+      <a href="mailto:bhanushaliharsh1@gmail.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
       </a>
     </td>
@@ -36,7 +36,7 @@ This is where I build things, break them, and occasionally fix them 🛠️
       </a>
     </td>
     <td align="center">
-  <a href="https://medium.com/@your-medium-handle" target="_blank">
+  <a href="https://medium.com/@bhanushaliharsh1" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" width="90" />
   </a>
 </td>
@@ -72,14 +72,7 @@ I like building things end-to-end — from AI-powered apps like a Retrieval-Augm
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshBhanushali2002&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshBhanushali2002&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshBhanushali2002&theme=radical&hide_border=true" />
-</p>
+<p align="left"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=HarshBhanushali2002&show_icons=true&theme=radical&hide_border=true" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HarshBhanushali2002&layout=compact&theme=radical&hide_border=true" /> </p> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshBhanushali2002&theme=radical&hide_border=true" /> </p>
 
 <!--
 **HarshBhanushali2002/HarshBhanushali2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
