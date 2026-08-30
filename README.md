@@ -70,7 +70,7 @@ I like building things end-to-end — from AI-powered apps like a Retrieval-Augm
 | [registration-task](https://github.com/HarshBhanushali2002/registration-task) | Registration form/task app | JavaScript |
 | [rock-paper-scissors-java](https://github.com/HarshBhanushali2002/rock-paper-scissors-java) | Classic game implementation | Java |
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 <p align="left"> 
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=HarshBhanushali2002&v=2&show_icons=true&theme=radical&hide_border=true" /> 
@@ -79,6 +79,13 @@ I like building things end-to-end — from AI-powered apps like a Retrieval-Augm
 <p align="left"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshBhanushali2002&theme=radical&hide_border=true&v=2&timezone=Asia/Kolkata" /> 
 </p>
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshBhanushali2002/HarshBhanushali2002/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshBhanushali2002/HarshBhanushali2002/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/HarshBhanushali2002/HarshBhanushali2002/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **HarshBhanushali2002/HarshBhanushali2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
