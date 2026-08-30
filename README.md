@@ -21,7 +21,7 @@ This is where I build things, break them, and occasionally fix them 🛠️
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/REPLACE-WITH-YOUR-HANDLE" target="_blank">
+      <a href="https://www.linkedin.com/in/harsh-bhanushali-a3941b261/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
       </a>
     </td>
