@@ -72,7 +72,13 @@ I like building things end-to-end — from AI-powered apps like a Retrieval-Augm
 
 ### 📊 GitHub Stats
 
-<p align="left"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=HarshBhanushali2002&v=1&show_icons=true&theme=radical&hide_border=true" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HarshBhanushali2002&v=1&layout=compact&theme=radical&hide_border=true" /> </p> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshBhanushali2002&theme=radical&hide_border=true" /> </p>
+<p align="left"> 
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=HarshBhanushali2002&v=2&show_icons=true&theme=radical&hide_border=true" /> 
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HarshBhanushali2002&v=2&layout=compact&theme=radical&hide_border=true" /> 
+</p> 
+<p align="left"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshBhanushali2002&theme=radical&hide_border=true&v=2&timezone=Asia/Kolkata" /> 
+</p>
 
 <!--
 **HarshBhanushali2002/HarshBhanushali2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
